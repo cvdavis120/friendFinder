@@ -26,20 +26,20 @@
 // // testing.addMe()
 module.exports = [{
         "name": "John",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-        "scores": [3, 2, 5, 1, 4, 3, 2, 4, 5, 1]
+        "photo": "http://clipart-library.com/newimages/clip-art-person-4.png",
+        "scores": [3, 2, 5, 4, 4, 3, 4, 4, 5, 5]
     }, {
         "name": "Suzie",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "http://clipart-library.com/newimages/clip-art-person-4.png",
         "scores": [5, 3, 2, 4, 1, 3, 2, 5, 2, 2]
     }, {
         "name": "Sammy",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "http://clipart-library.com/newimages/clip-art-person-4.png",
         "scores": [1, 5, 5, 3, 4, 4, 2, 3, 4, 5]
     },
     {
         "name": "Alex",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "http://clipart-library.com/newimages/clip-art-person-4.png",
         "scores": [4, 4, 2, 1, 3, 3, 5, 2, 3, 2]
     }
 ]
